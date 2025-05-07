@@ -47,10 +47,10 @@ Bem-vindo ao frontend do **Projeto Blog Pessoal**! Esta é uma Single Page Appli
 ### Passos Rápidos:
 ```bash
 # Clone o repositório
-git clone https://github.com/igorsantos2102/aceleraMaker.git
+git clone https://github.com/igorsantos2102/aceleraMaker-FrontEnd.git
 
 # Instale dependências
-cd aceleraMaker
+cd aceleraMaker-FrontEnd
 npm install
 
 # Configure a URL da API
