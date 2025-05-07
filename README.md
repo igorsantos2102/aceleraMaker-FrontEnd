@@ -91,7 +91,7 @@ ng e2e
 ## 📞 Contato
 | Autor           | GitHub                          | LinkedIn                     |
 |-----------------|---------------------------------|------------------------------|
-| Igor Santos     | [@igorsantos2102](https://github.com/igorsantos2102) | [LinkedIn Profile](https://linkedin.com/in/seu-linkedin) |
+| Igor Santos     | [@igorsantos2102](https://github.com/igorsantos2102) | [LinkedIn Profile](www.linkedin.com/in/0-igor-santos) |
 
 ---
 
