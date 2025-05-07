@@ -1,4 +1,3 @@
-```markdown
 # Projeto Blog Pessoal - Frontend Angular 🚀
 
 ![Angular](https://img.shields.io/badge/Angular-19+-DD0031?logo=angular&style=flat-square)
